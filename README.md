@@ -4,4 +4,4 @@
 目前工作在北京。  
 邮箱：`guo5283796@163.com`  
 
-![json ](/guoshuai6511/blog/blob/master/images/da-hua-json.png)
+![json ](/images/da-hua-json.png)
