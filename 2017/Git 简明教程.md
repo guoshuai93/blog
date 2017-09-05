@@ -12,3 +12,5 @@
 - [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 - [Git教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 - [Pro Git（中文版）](https://git.oschina.net/progit/)
+这个必须要看
+- [git快速入门之一：创建本地仓库并同步到远程](http://www.yanyaozhen.com/archives/38/)
