@@ -7,6 +7,9 @@
 
 ## 使用
 
+- 检出仓库
+在本地建立一份远端仓库的拷贝：`git clone username@host:/path/to/repository`
+
 
 ## 常见问题
 
